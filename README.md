@@ -6,6 +6,10 @@ A light [Yazi](https://github.com/sxyazi/yazi) flavor based on the [Everforest](
 
 This flavor brings the warm, forest-inspired colors of Everforest to Yazi's file manager interface with a comfortable light theme.
 
+## Compatibility
+
+Maintained against Yazi/Ya `26.5.6`.
+
 ## Installation
 
 ### Yazi Package Manager
@@ -44,7 +48,6 @@ This flavor uses the Everforest medium light palette:
 - Background: `#fdf6e3`
 - Foreground: `#5c6a72`
 - Red: `#f85552`
-- Orange: `#f57d26`
 - Yellow: `#dfa000`
 - Green: `#8da101`
 - Aqua: `#35a77c`
