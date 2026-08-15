@@ -193,11 +193,10 @@ hovered = { fg = "#df69ba", underline = true }
 # : Help menu {{{
 
 [help]
-on      = { fg = "#3a94c5" }
-run     = { fg = "#df69ba" }
-desc    = {}
+border  = { fg = "#5c6a72" }
+chord   = { fg = "#3a94c5" }
+action  = { fg = "#df69ba" }
 hovered = { reversed = true, bold = true }
-footer  = { fg = "#fdf6e3", bg = "#5c6a72" }
 
 # : }}}
 

@@ -8,7 +8,7 @@ This flavor brings the warm, forest-inspired colors of Everforest to Yazi's file
 
 ## Compatibility
 
-Maintained against Yazi/Ya `26.5.6`.
+Maintained against Yazi/Ya `26.8.15`.
 
 ## Installation
 
